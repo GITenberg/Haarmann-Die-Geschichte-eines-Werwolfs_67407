@@ -1,0 +1,42 @@
+_repo: Haarmann-Die-Geschichte-eines-Werwolfs_67407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lessing, Theodor
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '54260'
+    url: http://www.gutenberg.org/2009/agents/54260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Theodor_Lessing
+    - https://de.wikipedia.org/wiki/Theodor_Lessing
+  editor:
+    agent_name: Leonhard, Rudolf
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '36361'
+    url: http://www.gutenberg.org/2009/agents/36361
+    wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
+description: ''
+gutenberg_issued: '2022-02-15'
+identifiers:
+  gutenberg: '67407'
+  lccn: '27004760'
+language: de
+pgterms:marc905: 20210805225721lessing
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: Jens Sadowski
+publication_note: Germany :Die Schmiede,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Aussenseiter der Gesellschaft. Die Verbrechen der Gegenwart. Band 6
+- Außenseiter der Gesellschaft. Die Verbrechen der Gegenwart. Band 6
+subjects:
+- !lcsh 'Haarmann, Fritz, 1879-1925'
+- !lcc 'HV'
+- GITenberg
+title: Haarmann. Die Geschichte eines Werwolfs
+url: http://www.gutenberg.org/ebooks/67407
